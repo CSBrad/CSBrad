@@ -11,6 +11,10 @@
   <a href="https://www.paypal.com/paypalme/BradleyRye" target="_blank">
     <img alt="Donate Today" src="https://img.shields.io/badge/Donate-Today-blue">
   </a>
+
+  <a href="https://github.com/CSBrad?tab=repositories" target="_blank">
+    <img alt="My Repositories" src="https://img.shields.io/badge/My-Repositories-blue">
+  </a>
   
   <a href="https://github.com/CSBrad" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=csbrad&label=Profile%20views&color=0e75b6&style=flat" alt="csbrad">
