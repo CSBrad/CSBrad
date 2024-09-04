@@ -40,7 +40,7 @@
 
 
 ## Honorable Mentions 
-A Massive thank you for supporting the porject:
+A Massive thank you for supporting my projects:
 * Radiolotek
 * Donatello
 
