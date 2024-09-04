@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    Hi 👋, I'm CSBrad
+    Hi 👋, I'm Brad
   <br>
 </h1>
 
